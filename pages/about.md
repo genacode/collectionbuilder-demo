@@ -14,6 +14,8 @@ permalink: /about.html
 
 This is content about the Psychiana collection.
 
+{% include feature/item-figure.html objectid="psychiana005" width="25" %}
+
 ## This is the second Psychiana section
 
 This is also content about the Psychiana collection.
