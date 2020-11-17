@@ -8,7 +8,11 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="This is the first Psychiana section;This is the second Psychiana section;About the Collection;About the About Page" %}
+
+## This is the first Psychiana section
+
+## This is the second Psychiana section
 
 ## About the Collection
 
