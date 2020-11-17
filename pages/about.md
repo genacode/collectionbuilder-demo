@@ -12,7 +12,11 @@ permalink: /about.html
 
 ## This is the first Psychiana section
 
+This is content about the Psychiana collection.
+
 ## This is the second Psychiana section
+
+This is also content about the Psychiana collection.
 
 ## About the Collection
 
